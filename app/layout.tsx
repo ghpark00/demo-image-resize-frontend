@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "AWS 강의실 CI/CD 데모",
-  description: "AWS 강의실 CI/CD 데모",
+  title: "CI/CD 데모",
+  description: "CI/CD 데모",
 };
 
 export default function RootLayout({
